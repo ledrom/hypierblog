@@ -7,3 +7,5 @@ Este es mi segunda  entrada en este curso de Git y github.
 La primera vez, lo pause a la mitad y casi no entendia. Ahora entiendo más.
 
 Este es un cambio nuevo luego de haber realizado un reset Hard que borró varios cambios anteriores.
+
+Esto es una bomba mental, jajaja
