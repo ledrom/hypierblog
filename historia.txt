@@ -2,4 +2,6 @@ Este es mi primer archivo trabajando con git
 
 Ya instale Git , obvio. Estoy aprendiendo algunos comandos iniciales
 
-Estaré trabajando con mi primer repositorio creado.
+Este es mi segunda  entrada en este curso de Git y github.
+
+La primera vez, lo pause a la mitad y casi no entendia. Ahora entiendo más.
